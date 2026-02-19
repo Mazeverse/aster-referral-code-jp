@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://aster-referral-code.vercel.app/sitemap.xml
+Sitemap: https://aster-referral-code-jp.vercel.app/sitemap.xml
